@@ -14,7 +14,7 @@ Create three different layers that will serve as the base map.
 
 The next task added the three data layers to the base map.
 The data layers would be composed of the three different datasets.
-- Recent earthquake data from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
-- An overlay of tectonic plate data from https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
-- Earthquakes' whose magnitude registered above a 4.5 from https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson
+- Recent earthquake [data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson) from the USGS website.
+- The overlay of tectonic plates can be found [here](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json).
+- Earthquakes' whose magnitude registered above a 4.5 was also gathered from the USGS website. Link [here](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson).
 
