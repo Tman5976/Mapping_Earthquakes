@@ -2,6 +2,8 @@
 
 ## Objectives
 
+Using HTML5, JavaScript and mapbox APIs create a map that displays recent earthquakes around the world.
+
 #### Map Layers
 
 Create three different layers that will serve as the base map.
